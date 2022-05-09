@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "finalproject",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\liorl\\Downloads\\final_project-main (1)\\final_project-main\\finalProject\\amplify\\backend\\api\\finalproject\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-04-06T13:14:50.198Z",
+      "keyDescription": "finalProject"
+    }
+  }
+}
